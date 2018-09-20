@@ -1,0 +1,37 @@
+_repo: A-Texas-Blue-Bonnet_53192
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Goss, John
+    birthdate: 1886
+    deathdate: 1963
+    gutenberg_agent_id: '7136'
+    url: http://www.gutenberg.org/2009/agents/7136
+creator:
+  author:
+    agent_name: Jacobs, Caroline Emilia
+    alias: Elliott, Emilia
+    birthdate: 1872
+    deathdate: 1909
+    gutenberg_agent_id: '5274'
+    url: http://www.gutenberg.org/2009/agents/5274
+description: ''
+gutenberg_issued: '2016-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53192'
+  lccn: '10025218'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Texas -- Juvenile fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Ranch life -- Juvenile fiction'
+- GITenberg
+title: A Texas Blue Bonnet
+url: http://www.gutenberg.org/ebooks/53192
