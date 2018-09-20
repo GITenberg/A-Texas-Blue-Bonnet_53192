@@ -1,5 +1,5 @@
 _repo: A-Texas-Blue-Bonnet_53192
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Goss, John
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1963
     gutenberg_agent_id: '7136'
     url: http://www.gutenberg.org/2009/agents/7136
+covers:
+- cover_type: archival
+  image_path: 53192-h/images/cover.jpg
 creator:
   author:
     agent_name: Jacobs, Caroline Emilia
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '5274'
     url: http://www.gutenberg.org/2009/agents/5274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53192#A-Texas-Blue-Bonnet
 gutenberg_issued: '2016-10-02'
 gutenberg_type: Text
 identifiers:
